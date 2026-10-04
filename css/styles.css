@@ -86,7 +86,7 @@ body {
 
 .completada {
   text-decoration: line-through;
-  color: #888888;
+  color: #13e06f;
 }
 
 #lista-tareas li button {
